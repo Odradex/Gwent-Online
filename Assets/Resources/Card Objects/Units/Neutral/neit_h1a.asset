@@ -1,0 +1,23 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 06a23b6452c88f949ab190ea494f227e, type: 3}
+  m_Name: neit_h1a
+  m_EditorClassIdentifier: 
+  basePower: 0
+  power: 0
+  FullImage: {fileID: 21300000, guid: 94a09b2c288dea240a1201072fa512d7, type: 3}
+  SmallImage: {fileID: 21300000, guid: d83588d50d6642541b2bb0e5b60b287d, type: 3}
+  name: neit_h1a
+  isHero: 1
+  ability: 3
+  type: 0
+  row: 0

@@ -1,0 +1,23 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 06a23b6452c88f949ab190ea494f227e, type: 3}
+  m_Name: skoa_31
+  m_EditorClassIdentifier: 
+  basePower: 6
+  power: 6
+  FullImage: {fileID: 21300000, guid: f745704e6681d6247a742136cefd3808, type: 3}
+  SmallImage: {fileID: 21300000, guid: 0905c27ed1c8dfe4bbd8719a1f23a928, type: 3}
+  name: skoa_31
+  isHero: 0
+  ability: 7
+  type: 0
+  row: 3

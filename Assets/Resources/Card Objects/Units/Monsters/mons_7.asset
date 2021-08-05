@@ -1,0 +1,23 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 06a23b6452c88f949ab190ea494f227e, type: 3}
+  m_Name: mons_7
+  m_EditorClassIdentifier: 
+  basePower: 2
+  power: 2
+  FullImage: {fileID: 21300000, guid: 1f9a60a1fb8c285489e55e958506f84f, type: 3}
+  SmallImage: {fileID: 21300000, guid: 8ef02144f6e55144d89af7446b302ec6, type: 3}
+  name: mons_7
+  isHero: 0
+  ability: 7
+  type: 0
+  row: 0

@@ -1,0 +1,23 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 06a23b6452c88f949ab190ea494f227e, type: 3}
+  m_Name: sev_12
+  m_EditorClassIdentifier: 
+  basePower: 4
+  power: 4
+  FullImage: {fileID: 21300000, guid: 904db39c8b6bc4d45a3e03fdf092b643, type: 3}
+  SmallImage: {fileID: 21300000, guid: 18dba49d4c82bc344bb1cd9babef54ef, type: 3}
+  name: sev_12
+  isHero: 0
+  ability: 7
+  type: 0
+  row: 1
